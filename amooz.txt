@@ -8,12 +8,11 @@ vless://0a0c7f05-07f1-4d47-a3dd-876386f3d082@91.107.210.35:443/?type=tcp&encrypt
 
 vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@93.88.74.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=chrome&security=reality&pbk=Uhr5tVbWMaOSidsMcNxdBnM2OzO37nH106cPdmIoI1I&sid=d4dd377e#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20reality%20%F0%9F%9F%A1%20%F0%9F%9F%A3
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprUXBhREpkRlBubHRZY2JCWUY0S3RL@40.113.153.173:45160#%5B%20%F0%9F%87%B3%F0%9F%87%B1%20%5D%20RighTel%20%F0%9F%9F%A3
-
-vmess://eyJhZGQiOiIxMDQuMjEuNTUuMTg2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MjE5LnRvZGRucy5ncSIsImlkIjoiN2JlNjdkNjUtMDYzNi0zNGNiLWIzMDctMzgyNTEwNThkOTk3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2ZyZjg5OTg4azciLCJwb3J0IjoiODAiLCJwcyI6IlsgRlIgXSBNVE4g8J+foSAoMUdCKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vless://d65eb109-efe6-4941-b726-674fe55f22ae@104.19.255.51:443/?type=ws&encryption=none&host=worker.safenesser.ga&path=%2Ffirst.baoshi750105.top%2Fcaoyu1932&security=tls&sni=worker.safenesser.ga#%5B%E2%98%81%EF%B8%8F%5D%20MTN%20%F0%9F%9F%A1
 
 
 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:5000#%5B%F0%9F%87%AB%F0%9F%87%B7%5D145.239.1.100%20RighTel%20%F0%9F%9F%A3
+
+
+
+
+
