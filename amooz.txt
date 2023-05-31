@@ -1,4 +1,4 @@
-
+vless://e8be6120-8ce8-41b8-a7f7-061683389109@88.99.226.123:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.zula.ir&fp=chrome&security=reality&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20%F0%9F%9F%A1%20%F0%9F%94%B5%20%F0%9F%9F%A3%20%2815GB%29
 
 vless://0a0c7f05-07f1-4d47-a3dd-876386f3d082@91.107.210.35:443/?type=tcp&encryption=none&flow=&sni=discord.com&fp=chrome&security=reality&pbk=71c4m-FD5URjGQqr0NmrOmFUoUn5Z8LmGzla90Y6iT4&sid=ee479df7#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20%F0%9F%9F%A1%20%F0%9F%9F%A3%20%2815GB%29
 
