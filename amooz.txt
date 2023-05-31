@@ -1,4 +1,4 @@
-vless://f6af1a43-c572-4636-96ca-27647b301cb6@mr.zayn2014.sbs:2053/?encryption=none&flow=&host=varzesh3.com&type=tcp&headerType=http#%5B%20%F0%9F%95%AF%EF%B8%8F%20%5D%20MTN%20%F0%9F%9F%A1%20RTL%20%F0%9F%9F%A3
+
 
 vless://0a0c7f05-07f1-4d47-a3dd-876386f3d082@91.107.210.35:443/?type=tcp&encryption=none&flow=&sni=discord.com&fp=chrome&security=reality&pbk=71c4m-FD5URjGQqr0NmrOmFUoUn5Z8LmGzla90Y6iT4&sid=ee479df7#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20%F0%9F%9F%A1%20%F0%9F%9F%A3%20%2815GB%29
 
@@ -9,7 +9,7 @@ vless://0a0c7f05-07f1-4d47-a3dd-876386f3d082@91.107.210.35:443/?type=tcp&encrypt
 vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@93.88.74.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=chrome&security=reality&pbk=Uhr5tVbWMaOSidsMcNxdBnM2OzO37nH106cPdmIoI1I&sid=d4dd377e#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20reality%20%F0%9F%9F%A1%20%F0%9F%9F%A3
 
 
-
+vless://c574c822-5ef9-44dc-b242-4f40a26e532a@173.245.49.217:443/?type=ws&encryption=none&host=hi-amooz.safenesser.ga&path=%2Fvless%2Fc574c822-5ef9-44dc-b242-4f40a26e532a&security=tls&sni=hi-amooz.safenesser.ga#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Edge%20Tunnel%20%28MTN%20%F0%9F%9F%A1%29%20%20%20%20%20%D9%BE%DB%8C%D9%86%DA%AF%20%D9%86%D9%85%DB%8C%D8%AF%D9%87%20%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%20%D8%AA%D8%B3%D8%AA%20%DA%A9%D9%86
 
 
 
