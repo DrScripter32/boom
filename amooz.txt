@@ -1,6 +1,6 @@
 vless://b2329a08-2f1c-4fc9-8236-ef2b5842d29b@65.109.214.24:443/?type=grpc&encryption=none&sni=ftp.debian.org&fp=firefox&security=reality&pbk=XijQqg0Onx7CFLrkj9IdI6tcpGdMeSS2u0RjWEZt8CY&sid=#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20%F0%9F%9F%A1%20%F0%9F%9F%A3%20%2815GB%29
 
-vless://b2329a08-2f1c-4fc9-8236-ef2b5842d29b@65.109.214.24:443/?type=grpc&encryption=none&flow=&sni=ftp.debian.org&fp=firefox&security=reality&pbk=XijQqg0Onx7CFLrkj9IdI6tcpGdMeSS2u0RjWEZt8CY&sid=#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20%F0%9F%9F%A1%20%F0%9F%9F%A3%20%2815GB%29
+
 
 vless://e8be6120-8ce8-41b8-a7f7-061683389109@88.99.226.123:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.zula.ir&fp=chrome&security=reality&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20%F0%9F%9F%A1%20%F0%9F%94%B5%20%F0%9F%9F%A3%20%2815GB%29
 
