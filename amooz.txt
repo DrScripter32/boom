@@ -12,12 +12,11 @@ vless://0a0c7f05-07f1-4d47-a3dd-876386f3d082@91.107.210.35:443/?type=tcp&encrypt
 
 ----cf------
 
-vless://0e64e50c-77e2-4d70-e99c-1865569f88c3@cft13.sansorchi.net:2053/?type=ws&encryption=none&flow=&host=a1.cloud-x.online&path=%2F&security=tls&sni=a1.cloud-x.online#%5B%20%E2%98%81%EF%B8%8F%20%5D%20MTN%20%F0%9F%9F%A1%20
+vless://0e64e50c-77e2-4d70-e99c-1865569f88c3@173.245.59.124:2053/?type=ws&encryption=none&flow=&host=a1.cloud-x.online&path=%2F&security=tls&sni=a1.cloud-x.online#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Cloudflare%20
 
-vless://c574c822-5ef9-44dc-b242-4f40a26e532a@173.245.49.217:443/?type=ws&encryption=none&host=hi-amooz.safenesser.ga&path=%2Fvless%2Fc574c822-5ef9-44dc-b242-4f40a26e532a&security=tls&sni=hi-amooz.safenesser.ga#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Edge%20Tunnel%20%28MTN%20%F0%9F%9F%A1%29%20%20%20%20%20%D9%BE%DB%8C%D9%86%DA%AF%20%D9%86%D9%85%DB%8C%D8%AF%D9%87%20%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%20%D8%AA%D8%B3%D8%AA%20%DA%A9%D9%86
+vless://c574c822-5ef9-44dc-b242-4f40a26e532a@safenesser.ga:443/?type=ws&encryption=none&flow=&host=hi-amooz.safenesser.ga&path=%2Fvless%2Fc574c822-5ef9-44dc-b242-4f40a26e532a&security=tls&sni=hi-amooz.safenesser.ga#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Edge%20Tunnel
 
 
-vless://c574c822-5ef9-44dc-b242-4f40a26e532a@195.85.23.49:443/?type=ws&encryption=none&flow=&host=hi-amooz.safenesser.ga&path=%2Fvless%2Fc574c822-5ef9-44dc-b242-4f40a26e532a&security=tls&sni=hi-amooz.safenesser.ga#%5B%20%E2%98%81%EF%B8%8F%20%5D%20Edge%20Tunnel%20%28MTN%20%F0%9F%9F%A1%29%202%20%20%20%20%20%D9%BE%DB%8C%D9%86%DA%AF%20%D9%86%D9%85%DB%8C%D8%AF%D9%87%20%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%20%D8%AA%D8%B3%D8%AA%20%DA%A9%D9%86
 
 
 
