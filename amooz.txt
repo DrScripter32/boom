@@ -1,3 +1,5 @@
+vless://86e83bd7-4a66-4ba9-a756-57833e922c7a@128.140.49.117:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.zula.ir&fp=chrome&security=reality&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20-%20128.140.49.117
+
 vless://86e83bd7-4a66-4ba9-a756-57833e922c7a@88.99.226.123:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.zula.ir&fp=chrome&security=reality&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20-%2088.99.226.123%20%2815GB%29
 
 vless://e8be6120-8ce8-41b8-a7f7-061683389109@88.99.226.123:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.zula.ir&fp=chrome&security=reality&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2#%5B%20%F0%9F%A5%B7%F0%9F%8F%BB%20%5D%20Reality%20-%2088.99.226.123%20%285GB%29
