@@ -1,1 +1,3 @@
 vless://686ef628-4f70-4cdc-8156-fae1afa81377@162.159.133.234:8880?path=%2Fjoin--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON%3Fed%3D1048&security=none&encryption=none&host=hi-mommy.xn--fhqaa952bababa.tech.&type=ws#MCI
+
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
